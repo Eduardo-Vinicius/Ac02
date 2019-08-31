@@ -23,3 +23,14 @@ Comando Push
 
 1 - Envia os arquivos do repositório local para o repositorio remoto.
 
+Comando Pull 
+
+1 - Pega os dados do repositório remoto e envia direto para o diretório, passando do repositório local para o diretório.
+
+Comando Fetch 
+
+1 - pega os dados do repositório remoto e envia para o repositório local.
+
+Comando Checkout 
+
+1 - Altera para os novos branchs criados no repositório remoto, possibitando novas atualizações.
